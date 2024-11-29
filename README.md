@@ -6,8 +6,8 @@ This is a simple Python project created as part of an internship program. The BM
 - Accepts user input for height (in meters) and weight (in kilograms).
 - Calculates BMI using the formula:
   \[
-  BMI = \frac{\text{weight (kg)}}{\text{height (m)}^2}
-  \]
+  BMI = (weight(kg)) / (height(m)^2)
+
 - Categorizes the BMI result into four groups:
   - Underweight
   - Normal weight
